@@ -1,0 +1,9 @@
+Copyright © 2022 Roni Äikäs.
+
+Consult assets/minecraft/textures/font/copyright.txt for license of the icon assets.
+
+Kaikki oikeudet pidätetään.
+All rights reserved.
+
+Licensed for use:
+- tubucraft.com
