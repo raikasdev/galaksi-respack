@@ -1,0 +1,10 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "front": "block/monitor",
+    "side": "block/monitor_side",
+    "top": "block/monitor_side",
+    "south": "block/monitor",
+    "bottom": "block/monitor_side"
+  }
+}

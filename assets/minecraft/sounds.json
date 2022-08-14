@@ -1,38 +1,44 @@
 {
   "entity.generic.swim": {
-    "replace": true
+    "replace": "true"
   },
   "entity.generic.splash": {
-    "replace": true
+    "replace": "true"
   },
   "entity.hostile.splash": {
-    "replace": true
+    "replace": "true"
+  },
+  "entity.hostile.swim": {
+    "replace": "true"
   },
   "entity.player.splash": {
-    "replace": true
+    "replace": "true"
+  },
+  "entity.player.swim": {
+    "replace": "true"
   },
   "entity.player.splash.high_speed": {
-    "replace": true
+    "replace": "true"
   },
   "ambient.underwater.loop": {
-    "replace": true
+    "replace": "true"
   },
   "ambient.underwater.loop.additions": {
-    "replace": true
+    "replace": "true"
   },
   "ambient.underwater.loop.additions.rare": {
-    "replace": true
+    "replace": "true"
   },
   "ambient.underwater.enter": {
-    "replace": true
+    "replace": "true"
   },
   "ambient.underwater.exit": {
-    "replace": true
+    "replace": "true"
   },
   "block.water.ambient": {
-    "replace": true
+    "replace": "true"
   },
   "music.under_water": {
-    "replace": true
+    "replace": "true"
   }
 }
